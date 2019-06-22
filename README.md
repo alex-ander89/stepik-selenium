@@ -1,2 +1,2 @@
 # stepik-selenium
-Repository for education.
+Repository for education. TEST
